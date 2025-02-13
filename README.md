@@ -9,5 +9,3 @@ A simple and functional To-Do app built with Flutter. This app allows users to a
 - 🔔 **Persistent Notification** - Keeps focus mode active in the background.
 - ☁️ **Firebase Authentication** - User login and authentication.
 - 🔄 **Data Storage** - Tasks are stored in Firebase Firestore.
-
-## 📂 Project Structure
