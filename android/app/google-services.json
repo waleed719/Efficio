@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175212374401",
+    "project_id": "efficio-320f8",
+    "storage_bucket": "efficio-320f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175212374401:android:06a06619e8cbe78c4c6080",
+        "android_client_info": {
+          "package_name": "com.example.efficio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBTN4L4UElpVSs5lcl4AjDydQRz1sBixQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
